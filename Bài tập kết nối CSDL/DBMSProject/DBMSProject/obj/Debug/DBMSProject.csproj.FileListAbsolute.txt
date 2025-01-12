@@ -1,0 +1,10 @@
+D:\Hệ quản trị CSDL DBMS\DBMSProject\DBMSProject\bin\Debug\DBMSProject.exe.config
+D:\Hệ quản trị CSDL DBMS\DBMSProject\DBMSProject\bin\Debug\DBMSProject.exe
+D:\Hệ quản trị CSDL DBMS\DBMSProject\DBMSProject\bin\Debug\DBMSProject.pdb
+D:\Hệ quản trị CSDL DBMS\DBMSProject\DBMSProject\obj\Debug\DBMSProject.csproj.AssemblyReference.cache
+D:\Hệ quản trị CSDL DBMS\DBMSProject\DBMSProject\obj\Debug\DBMSProject.Form1.resources
+D:\Hệ quản trị CSDL DBMS\DBMSProject\DBMSProject\obj\Debug\DBMSProject.Properties.Resources.resources
+D:\Hệ quản trị CSDL DBMS\DBMSProject\DBMSProject\obj\Debug\DBMSProject.csproj.GenerateResource.cache
+D:\Hệ quản trị CSDL DBMS\DBMSProject\DBMSProject\obj\Debug\DBMSProject.csproj.CoreCompileInputs.cache
+D:\Hệ quản trị CSDL DBMS\DBMSProject\DBMSProject\obj\Debug\DBMSProject.exe
+D:\Hệ quản trị CSDL DBMS\DBMSProject\DBMSProject\obj\Debug\DBMSProject.pdb

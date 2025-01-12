@@ -1,0 +1,65 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\H\u1EC7 qu\u1EA3n tr\u1ECB CSDL DBMS\\B\u00E0i t\u1EADp k\u1EBFt n\u1ED1i CSDL\\DBMSProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A54945D-37C4-4307-BDB6-01A09990D9BF}|DBMSProject\\DBMSProject.csproj|d:\\h\u1EC7 qu\u1EA3n tr\u1ECB csdl dbms\\b\u00E0i t\u1EADp k\u1EBFt n\u1ED1i csdl\\dbmsproject\\dbmsproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A54945D-37C4-4307-BDB6-01A09990D9BF}|DBMSProject\\DBMSProject.csproj|solutionrelative:dbmsproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A54945D-37C4-4307-BDB6-01A09990D9BF}|DBMSProject\\DBMSProject.csproj|D:\\H\u1EC7 qu\u1EA3n tr\u1ECB CSDL DBMS\\B\u00E0i t\u1EADp k\u1EBFt n\u1ED1i CSDL\\DBMSProject\\dbmsproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A54945D-37C4-4307-BDB6-01A09990D9BF}|DBMSProject\\DBMSProject.csproj|solutionrelative:dbmsproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\H\u1EC7 qu\u1EA3n tr\u1ECB CSDL DBMS\\B\u00E0i t\u1EADp k\u1EBFt n\u1ED1i CSDL\\DBMSProject\\DBMSProject\\Form1.cs",
+              "RelativeDocumentMoniker": "DBMSProject\\Form1.cs",
+              "ToolTip": "D:\\H\u1EC7 qu\u1EA3n tr\u1ECB CSDL DBMS\\B\u00E0i t\u1EADp k\u1EBFt n\u1ED1i CSDL\\DBMSProject\\DBMSProject\\Form1.cs",
+              "RelativeToolTip": "DBMSProject\\Form1.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCQAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T09:10:10.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\H\u1EC7 qu\u1EA3n tr\u1ECB CSDL DBMS\\B\u00E0i t\u1EADp k\u1EBFt n\u1ED1i CSDL\\DBMSProject\\DBMSProject\\Form1.cs",
+              "RelativeDocumentMoniker": "DBMSProject\\Form1.cs",
+              "ToolTip": "D:\\H\u1EC7 qu\u1EA3n tr\u1ECB CSDL DBMS\\B\u00E0i t\u1EADp k\u1EBFt n\u1ED1i CSDL\\DBMSProject\\DBMSProject\\Form1.cs [Design]",
+              "RelativeToolTip": "DBMSProject\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T00:21:04.914Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
